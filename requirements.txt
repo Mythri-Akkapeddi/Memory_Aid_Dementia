@@ -1,8 +1,0 @@
-opencv-python 
-face-recognition 
-flask 
-SQLite
-pyttsx3 
-gTTS 
-vosk
-openai-whisper
